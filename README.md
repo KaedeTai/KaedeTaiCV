@@ -1,5 +1,7 @@
 # KAEDE TAI (戴志洋)
 
+![Kaede Tai](https://raw.githubusercontent.com/KaedeTai/KaedeTaiCV/main/images/kaede.jpg)
+
 **Contact Information**  
 Tel: +886-910-094490  
 LinkedIn: kaedetai  
