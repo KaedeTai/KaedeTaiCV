@@ -11,6 +11,8 @@ Email: kaedetai@gmail.com
 
 Serial entrepreneur and high-frequency quantitative trader with expertise in cybersecurity and technology infrastructure. Combines cross-disciplinary technical background with business acumen to transform innovative concepts into scalable, deployable products and systems. Passionate about leveraging technology and finance to create meaningful impact, driven by a commitment to making the world a better place through practical solutions.
 
+From the invention of the computer and the rise of the Internet, to mobile commerce, blockchain and cryptocurrencies, and now AI reshaping the world, I have stayed on the front line as a hands-on builder and leader. My experience spans contributing to open-source projects as an individual, building teams from zero, and leading teams within large telecoms and technology companies. As delivery methodologies evolved—from waterfall and Agile to Lean Startup and today’s AI copilot-driven vibe coding—the only thing that has never changed is my commitment to building exceptional teams and guiding them through challenges to achieve ambitious goals.
+
 ---
 
 ## WORK EXPERIENCE
@@ -20,12 +22,18 @@ Serial entrepreneur and high-frequency quantitative trader with expertise in cyb
 - Founded and scaled quantitative trading infrastructure SaaS platform  
 - Led fundraising initiatives and business development strategy  
 - Built and managed cross-functional engineering teams for trading systems
+- Binance Futures message received in 1.6 milliseconds (industry-leading low-latency)
 
 ### **Quantrend Technology** | CTO  
 *Oct 2020 - Nov 2024*  
-- Developed AI-driven high-frequency market maker trading systems  
-- Directed business development and team leadership initiatives  
-- Implemented quantitative strategies across multiple asset classes
+- Built and scaled a 20-person cross-functional team from ground up, establishing full-stack quantitative trading infrastructure  
+- Developed AI-driven high-frequency market maker trading systems with sub-millisecond latency  
+- Directed business development, fundraising, and strategic partnerships across global markets  
+- Implemented quantitative strategies across multiple asset classes including crypto, equities, and derivatives  
+- Established engineering culture, hiring processes, and performance management frameworks  
+- Led technology roadmap and product vision for institutional-grade trading platforms
+- Binance Futures Market Making 200B+ volume traded
+- Achieved Binance VIP 9 status and Market Maker Tier 5
 
 ### **FiO** | CTO  
 *Feb 2019 - Oct 2020*  
@@ -117,31 +125,43 @@ National Taiwan University
 - Security architecture and compliance
 
 ### **Software Development**
-- Rust, C++, Python, JavaScript
-- NoSQL, MySQL, MS SQL
+- Rust, C++, Python, Solidity, JavaScript, C#
+- NoSQL, MySQL, MS SQL database management
 - Full-stack development and deployment
 
-### **Artificial Intelligence**
+### **Artificial Intelligence & Generative AI**
 - Search algorithms and machine learning
 - Predictive modeling and data analysis
 - AI-driven trading systems
+- LLM orchestration across multiple models
+- Generative AI image pipelines
+- Autonomous AI agent design with scheduled task automation
+
+### **Special Education**
+- Special education teacher focused on neurodivergent gifted autism spectrum/Asperger’s profile, ADHD, highly sensitive students
+- Strength-based coaching for learning, executive function, emotional regulation, and social communication
+- Individualized learning plans and close collaboration with families and educators
 
 ### **Entrepreneurship**
 - Venture founding and fundraising
 - Business strategy and startup mentoring
 - Product-market fit and scaling
 
-### **Leadership**
-- Team building and cross-functional management
-- Technical direction and mentorship
-- Project and product management
+### **CTO Leadership & Executive Management**
+- **Team Building & Scaling**: Recruited, trained, and led cross-functional teams from inception to high-performance units
+- **Technical Vision & Strategy**: Defined technology roadmaps, architectural decisions, and innovation pipelines
+- **Executive Leadership**: Board-level reporting, investor relations, and strategic business planning
+- **Organizational Development**: Established engineering culture, career ladders, and performance management systems
+- **Budget & Resource Management**: Oversaw multi-million dollar technology budgets and resource allocation
+- **Stakeholder Management**: Aligned technical execution with business objectives across investors, clients, and partners
+- **Crisis Management & Risk Mitigation**: Led incident response, business continuity, and risk assessment frameworks
+- **Mentorship & Talent Development**: Built leadership pipelines and mentored next-generation technical leaders
 
 ---
 
 ## ACHIEVEMENTS & AWARDS
 
-- **2022**: Achieved Binance VIP 9 status and Market Maker Tier 5
-- **2015**: Invited speaker at TEDxTaipei conference
+- **2015**: Invited speaker at TEDxTaipei conference: https://www.youtube.com/watch?v=d00gxN0P0sI
 - **1995**: Founded SOB BBS and created Water Ball, pioneering instant messaging service
 - **1991**: Reverse-engineered DOS software copy protection systems
 
@@ -155,6 +175,7 @@ National Taiwan University
 
 ### **Interests**
 - International travel and photography
+- Formula 1, baseball and basketball
 - Music appreciation and performance
 - Fitness and endurance training
 
