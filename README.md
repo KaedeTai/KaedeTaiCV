@@ -19,7 +19,7 @@ From the invention of the computer and the rise of the Internet, to mobile comme
 
 ## WORK EXPERIENCE
 
-### **QTX Holdings** | CTO & Co-Founder  
+### **QTX Holdings** | CTO
 *Dec 2024 - Nov 2025*  
 - Founded and scaled quantitative trading infrastructure SaaS platform  
 - Led fundraising initiatives and business development strategy  
@@ -28,16 +28,14 @@ From the invention of the computer and the rise of the Internet, to mobile comme
 
 ### **Quantrend Technology** | CTO  
 *Oct 2020 - Nov 2024*  
-- Built and scaled a 20-person cross-functional team from ground up, establishing full-stack quantitative trading infrastructure  
-- Developed AI-driven high-frequency market maker trading systems with sub-millisecond latency  
+- Built a 20-person cross-functional team, establishing quantitative trading infrastructure  
+- Developed AI-driven high-frequency trading systems with sub-millisecond latency  
 - Directed business development, fundraising, and strategic partnerships across global markets  
-- Implemented quantitative strategies across multiple asset classes including crypto, equities, and derivatives  
 - Established engineering culture, hiring processes, and performance management frameworks  
-- Led technology roadmap and product vision for institutional-grade trading platforms
 - Binance Futures Market Making 200B+ volume traded
 - Achieved Binance VIP 9 status and Market Maker Tier 5
 
-### **FiO** | CTO  
+### **FiO Inc.** | CTO  
 *Feb 2019 - Oct 2020*  
 - Led development of IBM Hyperledger and IOTA blockchain solutions  
 - Built Blockchain-as-a-Service platform from concept to deployment  
@@ -131,11 +129,8 @@ National Taiwan University
 - NoSQL, MySQL, MS SQL database management
 - Full-stack development and deployment
 
-### **Artificial Intelligence & Generative AI**
-- Search algorithms and machine learning
-- Predictive modeling and data analysis
+### **Artificial Intelligence**
 - AI-driven trading systems
-- LLM orchestration across multiple models
 - Generative AI image pipelines
 - Autonomous AI agent design with scheduled task automation
 
@@ -149,40 +144,30 @@ National Taiwan University
 - Business strategy and startup mentoring
 - Product-market fit and scaling
 
-### **CTO Leadership & Executive Management**
-- **Team Building & Scaling**: Recruited, trained, and led cross-functional teams from inception to high-performance units
-- **Technical Vision & Strategy**: Defined technology roadmaps, architectural decisions, and innovation pipelines
-- **Executive Leadership**: Board-level reporting, investor relations, and strategic business planning
-- **Organizational Development**: Established engineering culture, career ladders, and performance management systems
-- **Budget & Resource Management**: Oversaw multi-million dollar technology budgets and resource allocation
-- **Stakeholder Management**: Aligned technical execution with business objectives across investors, clients, and partners
-- **Crisis Management & Risk Mitigation**: Led incident response, business continuity, and risk assessment frameworks
-- **Mentorship & Talent Development**: Built leadership pipelines and mentored next-generation technical leaders
+### **Leadership & Executive Management**
+- Recruited, trained, and led cross-functional teams from inception to high-performance units
+- Defined technology roadmaps, architectural decisions, and innovation pipelines
+- Board-level reporting, investor relations, and strategic business planning
+- Established engineering culture, career ladders, and performance management systems
+- Oversaw multi-million dollar technology budgets and resource allocation
+- Aligned technical execution with business objectives across investors, clients, and partners
+- Led incident response, business continuity, and risk assessment frameworks
+- Built leadership pipelines and mentored next-generation technical leaders
 
 ---
 
-## ACHIEVEMENTS & AWARDS
+## ACHIEVEMENTS
 
 - **2015**: Invited speaker at TEDxTaipei conference: https://www.youtube.com/watch?v=d00gxN0P0sI
 - **1995**: Founded SOB BBS and created Water Ball, pioneering instant messaging service
 - **1991**: Reverse-engineered DOS software copy protection systems
 
----
-
-## ADDITIONAL INFORMATION
-
-### **Languages**
+## LANGUAGES
 - Mandarin Chinese (Native)
 - English (Professional)
 
-### **Interests**
+## INTERESTS
 - International travel and photography
 - Formula 1, baseball and basketball
 - Music appreciation and performance
 - Fitness and endurance training
-
-### **Community Involvement**
-- Startup mentor for various entrepreneurship programs
-- TEDxTaipei organizing board member
-- NASA Space Apps Challenge mentor
-- Advisory committee member for regional entrepreneurship initiatives
